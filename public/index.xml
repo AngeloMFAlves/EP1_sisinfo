@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Desgraça de trabalho</title>
+		<title>About on Mural do Rogério Ceni</title>
 		<link>http://localhost:1313/</link>
-		<description>Recent content on Desgraça de trabalho</description>
+		<description>Recent content in About on Mural do Rogério Ceni</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -14,25 +14,32 @@
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>About</title>
+				<title>Consquistas do mito</title>
+				<link>http://localhost:1313/projects/projeto1/</link>
+				<pubDate>Mon, 21 Sep 2026 21:36:33 -0300</pubDate>
+				<guid>http://localhost:1313/projects/projeto1/</guid>
+				<description>&lt;p&gt;O gigantesco conquistou:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Copa do Mundo de Clubes da FIFA / Copa Intercontinental: 2005 e 1993&lt;/li&gt;&#xA;&lt;li&gt;Copa Libertadores da América: 2005 e 1993&lt;/li&gt;&#xA;&lt;li&gt;Campeonato Brasileiro: 2006, 2007 e 2008&lt;/li&gt;&#xA;&lt;li&gt;Copa Sul-Americana: 2012&lt;/li&gt;&#xA;&lt;li&gt;Campeonato Paulista: 1998, 2000 e 2005 (além do Supercampeonato Paulista de 2002)&lt;/li&gt;&#xA;&lt;li&gt;Outros internacionais: Recopa Sul-Americana (1993, 1994), Supercopa da Libertadores (1993), Copa CONMEBOL (1994) e Copa Master da CONMEBOL (1996)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Na beira de campo</title>
+				<link>http://localhost:1313/projects/projeto3/</link>
+				<pubDate>Mon, 21 Sep 2026 21:36:33 -0300</pubDate>
+				<guid>http://localhost:1313/projects/projeto3/</guid>
+				<description>&lt;p&gt;Depois que se aposentou enquanto jogador, Rogério Ceni se encaminhou para ser técnico, inclusive, assumindo o São Paulo, trazendo até que bons resultados enquanto um técnico jovem. Por incompetência da diretoria, ele chegou a sair da equipe em algumas ocasiões. Atualmente comanda o Bahia.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sobre</title>
 				<link>http://localhost:1313/about/</link>
 				<pubDate>Mon, 21 Sep 2026 21:36:33 -0300</pubDate>
 				<guid>http://localhost:1313/about/</guid>
-				<description>&lt;p&gt;bosta e mijo, odeio esse trabalho&lt;/p&gt;</description>
+				<description>&lt;p&gt;Este é um site de autoria de Ângelo Miguel, para o trabalho de PMR3308 - Sistemas da Informação.&lt;/p&gt;&#xA;&lt;p&gt;O autor cursa Engenharia Mecatrônica, e se interessa muito pela área da computação.&lt;/p&gt;&#xA;&lt;p&gt;Aqui ele quis relacionar as duas coisas que ele mais ama: &lt;strong&gt;computação e futebol&lt;/strong&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Flask</title>
-				<link>http://localhost:1313/tutorials/flask/</link>
-				<pubDate>Sat, 18 Sep 2021 23:28:40 -0300</pubDate>
-				<guid>http://localhost:1313/tutorials/flask/</guid>
-				<description>&lt;p&gt;Aprenda Flask em apenas quatro passos!&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Step one&lt;/li&gt;&#xA;&lt;li&gt;Step two&lt;/li&gt;&#xA;&lt;li&gt;????&lt;/li&gt;&#xA;&lt;li&gt;PROFIT!!!&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
-			</item>
-			<item>
-				<title>Django</title>
-				<link>http://localhost:1313/tutorials/django/</link>
-				<pubDate>Sat, 18 Sep 2021 23:27:57 -0300</pubDate>
-				<guid>http://localhost:1313/tutorials/django/</guid>
-				<description>&lt;p&gt;Aprenda Django em apenas quatro passos!&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Step one&lt;/li&gt;&#xA;&lt;li&gt;Step two&lt;/li&gt;&#xA;&lt;li&gt;????&lt;/li&gt;&#xA;&lt;li&gt;PROFIT!!!&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+				<title>Sua relação com o SPFC</title>
+				<link>http://localhost:1313/projects/projeto2/</link>
+				<pubDate>Mon, 21 Sep 2026 21:36:33 -0300</pubDate>
+				<guid>http://localhost:1313/projects/projeto2/</guid>
+				<description>&lt;p&gt;Rogério construiu sua linda história com o clube ao longo de muitos e muitos anos defendendo a meta do clube, sendo de extrema importância para diversos títulos para o clube, sendo fiel até o fim de sua carreira como goleiro, se aposentando lá.&lt;/p&gt;&#xA;&lt;p&gt;Jogador sempre muito sincero, apontava os defeitos e os erros do clube, além de tudo que o clube tinha de fazer para melhorar.&lt;/p&gt;&#xA;&lt;p&gt;Um excelente batedor de falta e cobrador de pênalti, também é, além de goleiro, um artilheiro, tendo mais gols que muitos atacantes por aí.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
