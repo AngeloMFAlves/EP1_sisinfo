@@ -4,7 +4,7 @@ draft = false
 title = 'Sobre'
 +++
 
-Este é um site de autoria de Ângelo Miguel, para o trabalho de PMR3308 - Sistemas da Informação.
+Este é um site de autoria de Ângelo Miguel, para o trabalho de PMR3304 - Sistemas da Informação.
 
 O autor cursa Engenharia Mecatrônica, e se interessa muito pela área da computação.
 
