@@ -5,5 +5,5 @@
     <link rel="stylesheet" href="{{ relURL "css/style.css" }}"> 
     <title>{{ .Site.Title }}</title>
     {{ $style := resources.Get "sass/style.scss" | css.Sass | resources.Minify | resources.Fingerprint }}
-</head>
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
 </head>
