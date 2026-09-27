@@ -1,27 +1,24 @@
-#footer {
-  display: flex;
+footer {
+  display: grid;
   justify-content: center;
   align-items: center;
   text-align: center;
 }
-#header{
+header {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
   align-items: center;
   text-align: center;
-}
-html, body {
-  height: 100%;
-  margin: 0;
-}
 
-body {
-  background-image: url('static/images/spfc.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 1.5rem;
+    padding: 0;
+    margin: 0;
+  }
 }
-
 @media (max-width: 600px) {
   header nav ul {
     flex-direction: column;
