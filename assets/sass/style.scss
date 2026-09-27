@@ -27,18 +27,29 @@ main {
   text-align: center;
   align-items: center;
   margin: 10;
+  color: #fff;
 }
 
 header {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
   align-items: center;
-  justify-content: left;
-  gap: 25rem;
+  padding: 1rem 2rem;
   text-align: center;
   background-color: #0000;
-  margin: 10;
+
+  h1 {
+    justify-self: start;
+    margin: 0;
+  }
+
+  img {
+    justify-self: center;
+  }
+
+  nav {
+    justify-self: end;
+  }
 
   nav ul {
     display: flex;
@@ -46,11 +57,19 @@ header {
     list-style: none;
     gap: 1rem;
     padding: 1rem;
-    margin: 10;
     background-color: rgba(150, 15, 0, 1);
     border-radius: 16px;
-    padding: 1rem 1rem;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+}
+
+@media (max-width: 600px) {
+  header {
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+  header nav ul {
+    flex-direction: column;
   }
 }
 
@@ -69,11 +88,3 @@ footer {
   text-align: center;
 }
 
-@media (max-width: 600px) {
-  header {
-    flex-direction: column;
-  }
-  header nav ul {
-    flex-direction: column;
-  }
-}

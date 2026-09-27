@@ -1,7 +1,7 @@
 +++
 date = '2026-09-21T21:36:33-03:00'
 draft = false
-title = 'About'
+title = 'tanto faz'
 +++
 
 Rogério Ceni é um ex-futebolista e atual treinador brasileiro, mundialmente famoso por deter o recorde absoluto de **maior goleiro-artilheiro da história do futebol**, com 131 gols oficiais marcados (a grande maioria de falta e pênalti). Sua trajetória é marcada por uma profunda identificação com o São Paulo Futebol Clube, onde jogou por 25 anos.
